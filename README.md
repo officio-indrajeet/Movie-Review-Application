@@ -1,74 +1,40 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Movie Review Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+The Movie Review Application is a web-based platform that allows users to browse and review movies. Users can read reviews, rate movies, and add their own reviews. The application aims to provide a comprehensive movie review experience with a user-friendly interface.
 
-In the project directory, you can run:
+## Technology Stack
 
-### `npm start`
+### Frontend
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **React**: A JavaScript library for building user interfaces. It allows for the creation of reusable UI components and efficient updates.
+- **HTML/CSS**: Standard technologies for structuring and styling the web pages.
+- **JavaScript**: The primary programming language for web development, used here to add interactivity and manage data.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Backend
 
-### `npm test`
+- **Spring Boot**: A Java-based framework used to create stand-alone, production-grade Spring-based applications. It simplifies the bootstrapping and development of new Spring applications.
+- **Java**: The programming language used for developing the backend services.
+- **Spring Data JPA**: A part of the Spring Framework that makes it easy to implement JPA-based repositories and access relational databases.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Database
 
-### `npm run build`
+- **MongoDB**: A NoSQL database that stores data in flexible, JSON-like documents. It's used here to manage user data, movie information, and reviews.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Tools & Libraries
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Axios**: A promise-based HTTP client for the browser and Node.js, used to make API requests.
+- **Maven**: A build automation tool used primarily for Java projects. It helps in managing project dependencies and building the application.
+- **npm**: Node package manager, used to manage dependencies for the frontend.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Features
 
-### `npm run eject`
+- User authentication and authorization.
+- Browsing movies with detailed information.
+- Reading and writing reviews for movies.
+- Rating movies.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Movie-Review-Application
->>>>>>> origin/main
+   
