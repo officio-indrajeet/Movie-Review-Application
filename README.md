@@ -37,4 +37,11 @@ The Movie Review Application is a web-based platform that allows users to browse
 
 
 
+
+
+# Screenshots 
+<img width="328" alt="Screenshot 2024-07-24 at 12.43.48 AM" src="https://github.com/user-attachments/assets/b1086490-0ae3-4168-a53c-01766a433560"> <img width="370" alt="Screenshot 2024-07-24 at 12 44 55 AM" src="https://github.com/user-attachments/assets/31d1bb9c-7aad-4e20-b5d0-a837b16e143a"> <img width="325" alt="Screenshot 2024-07-24 at 12 45 10 AM" src="https://github.com/user-attachments/assets/905fe238-c0c7-4f40-ad0d-50c706113d78"> <img width="330" alt="Screenshot 2024-07-24 at 12 46 30 AM" src="https://github.com/user-attachments/assets/fd6983ed-cd19-4bb6-8db7-3a179627f358">
+
+
+
    
